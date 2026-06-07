@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE one SYSTEM "one.dtd">
+
+<students>
+    <student>
+        <name>Jai</name>
+        <age>19</age>
+    </student>
+    <student>
+        <name>Jai2</name>
+        <age>19</age>
+    </student>
+</students>
